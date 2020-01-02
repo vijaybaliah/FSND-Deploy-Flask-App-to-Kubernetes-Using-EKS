@@ -16,7 +16,6 @@ itsdangerous
 markupsafe
 werkzeug
 asn1crypto
-cryptography
 cffi
 idna
 pycparser
