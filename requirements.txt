@@ -6,7 +6,7 @@ cffi==1.13.2
 Click==7.0
 cryptography==2.8
 enum34==1.1.6
-Flask==1.1.1
+Flask==1.0.4
 funcsigs==1.0.2
 gunicorn==19.9.0
 idna==2.8
